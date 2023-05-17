@@ -1,0 +1,10 @@
+.posts-block{
+    padding: 10px;
+}
+.post-item img{
+    width: 40px;
+    border-radius: 50%;
+}
+.posts{
+    margin-top: 10px;
+}

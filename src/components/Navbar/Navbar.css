@@ -1,0 +1,28 @@
+.nav{
+    grid-area: n;
+    background-color: rgb(27, 156, 189);
+  
+    padding-left: 15px;
+    padding-right: 25px;
+  }
+  .left-menu-item a{
+    text-decoration: none;
+    color: rgb(26, 25, 25);
+    font-weight: 500;
+   
+  }
+  .left-menu-item .active{
+  
+    color: rgb(255, 255, 255);
+    
+    
+  }
+  .left-menu-item{
+    margin-bottom: 15px;
+  }
+  .left-menu-item:first-child{
+    margin-top: 15px;
+  }
+  .left-menu-item:last-child{
+    margin-top: 30px;
+  }

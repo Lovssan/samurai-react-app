@@ -1,0 +1,15 @@
+.user-image img{
+    width: 80px;
+}
+.selected-pages{
+    font-weight: 400;
+    cursor: pointer;
+}
+.selected-page{
+    font-weight: 700;
+    cursor: pointer;
+}
+.pagin-pages{
+    display: flex;
+    flex-wrap: nowrap;
+}
